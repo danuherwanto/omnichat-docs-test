@@ -30,3 +30,7 @@ Apabila pengguna mengisi data sebagai user-role agent, maka tampilan awal yg mun
 
 ![Instructions](user-role-agent.PNG)
 
+Untuk bagian visitor, tampilan livechatnya seperti pada fitur chat call center, embedded pada web yang nantinya akan direspon oleh agent.
+
+
+
