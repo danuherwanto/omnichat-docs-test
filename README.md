@@ -16,6 +16,10 @@ Jenis-jenis rolenya yaitu:
 ## Instructions
 Sebelum masuk ke dalam omni-chat server, pengguna baik agent, manager maupun visitor perlu membuka url `https://chat.modena.dev.gsk.tsun.moe/home` kemudian memasukkan email / username beserta passwordnya pada menu login tersebut.
 
+![Instructions](login.PNG)
+
 Setelah pengguna masuk ke dalam server omni-chat, tampilan dashboard akan muncul. Tampilan disini akan berbeda berdasarkan dari role user pada saat pengisian data pada menu login.
 
 Apabila pengguna mengisi data dengan user-role manager, maka tampilan awal yang muncul adalah home dari server itu sendiri. Selain itu live-chat manager juga mengatur bagian dari administrasi user yang terdapat pada chat server tersebut.
+
+
