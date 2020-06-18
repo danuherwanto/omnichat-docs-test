@@ -22,4 +22,6 @@ Setelah pengguna masuk ke dalam server omni-chat, tampilan dashboard akan muncul
 
 Apabila pengguna mengisi data dengan user-role manager, maka tampilan awal yang muncul adalah home dari server itu sendiri. Selain itu live-chat manager juga mengatur bagian dari administrasi user yang terdapat pada chat server tersebut.
 
+![Instructions](user-role-manager.PNG)
+
 
