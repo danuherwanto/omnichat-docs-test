@@ -24,4 +24,7 @@ Apabila pengguna mengisi data dengan user-role manager, maka tampilan awal yang 
 
 ![Instructions](user-role-manager.PNG)
 
+Apabila pengguna mengisi data sebagai user-role agent, maka tampilan awal yg muncul adalah home dari agent itu beserta list agent yang tersedia pada server tersebut. Selain itu, saat terdengar suara pada saat agent masuk ke dalam server.
+
+![Instructions](user-role-agent.PNG)
 
