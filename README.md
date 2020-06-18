@@ -32,5 +32,10 @@ Apabila pengguna mengisi data sebagai user-role agent, maka tampilan awal yg mun
 
 Untuk bagian visitor, tampilan livechatnya seperti pada fitur chat call center, embedded pada web yang nantinya akan direspon oleh agent.
 
+## Mengenai User Roles
 
+Mengenai user-management pada livechat, manager memiliki akses penuh pada fitur server, termasuk administrasi user di dalam server. Role ini juga mengatur channel, omnichannel maupun mengubah tampilan dari home server tersebut.
 
+Agent bertugas untuk merespon inquiry dari para visitor server, baik dalam bentuk chat maupun video call.
+
+Sedangkan visitor memiliki role yang sama dengan guest, yaitu melakukan request ataupun feedback kepada agent livechat.
